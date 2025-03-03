@@ -29,8 +29,7 @@ Sebuah website untuk pecinta kopi dan cokelat, menghadirkan pengalaman terbaik d
 
 | Home Page | Menu Page | Checkout Page |
 |-----------|----------|--------------|
-(![image](https://github.com/user-attachments/assets/28273edd-7713-46b6-a67b-37438d6675b4) | (![image](https://github.com/user-attachments/assets/50c4635b-2afd-464c-8320-cf63bc1f31f7)
- | (![image](https://github.com/user-attachments/assets/dab5cefc-b066-4210-b672-f3af5aee85bf) |
+![image](https://github.com/user-attachments/assets/28273edd-7713-46b6-a67b-37438d6675b4) | ![image](https://github.com/user-attachments/assets/50c4635b-2afd-464c-8320-cf63bc1f31f7) | ![image](https://github.com/user-attachments/assets/dab5cefc-b066-4210-b672-f3af5aee85bf) |
 
 ---
 
